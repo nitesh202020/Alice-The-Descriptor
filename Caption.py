@@ -5,6 +5,7 @@ from tensorflow.keras.applications.resnet50 import decode_predictions
 from tensorflow.keras.preprocessing.sequence import pad_sequences
 from tensorflow.keras.preprocessing import image
 from tensorflow.keras.models import load_model, Model
+import matplotlib.pyplot as plt
 import pickle
 import numpy as np
 
