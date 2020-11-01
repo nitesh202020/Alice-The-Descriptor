@@ -1,11 +1,11 @@
-matplotlib==2.2.2
-pandas==1.1.2
-numpy==1.18.5
-Keras==2.0.6
-tensorboard==2.3.0
-tensorflow==2.3.1
-scikit-learn==0.23.2
-scipy==1.5.2
+matplotlib>=2.2.2
+pandas>=1.1.2
+numpy>=1.18.5
+Keras>=2.0.6
+tensorboard>=2.3.0
+tensorflow>=2.3.1
+scikit-learn>=0.23.2
+scipy>=1.5.2
 Click==6.7
 Flask==1.1.1
 gunicorn==19.9.0
@@ -13,3 +13,4 @@ itsdangerous==0.24
 Jinja2==2.10.1
 MarkupSafe==1.1.1
 Werkzeug==0.15.5
+cloudpickle==0.5.3
