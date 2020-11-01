@@ -16,3 +16,4 @@ Werkzeug==0.15.5
 cloudpickle==0.5.3
 Tk
 Tcl
+h5py<3.0.0
