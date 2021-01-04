@@ -16,4 +16,3 @@
 
 ![](Images/Screenshot%20Capture%20-%202020-11-01%20-%2014-56-50.png)
 
-<h3> Website Link <href>"https://alice-the-descriptor.herokuapp.com/"</href></h3>
