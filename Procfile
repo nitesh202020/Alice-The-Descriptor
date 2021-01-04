@@ -1,1 +1,1 @@
-gunicorn app:app --timeout 1000
+gunicorn app:app --preload
