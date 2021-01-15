@@ -1,7 +1,7 @@
 <h1> Alice The Descriptor </h1>
 <p> Alice is an web app which uses Anaylse image tensors to describe the contents of an image. All you need to do is provide Alice with a picture and she will provide you with an appropriate description for your image.</p>
 
-<h3> Maotivation Behind the Project</h3>
+<h3> Motivation Behind the Project</h3>
 <p>Tesla Self driving cars — Automatic driving is one of the biggest challenges and if we can properly caption the scene around the car, it will give a boost to the self driving system.</p>
 
 <h3>Applications</h3>
